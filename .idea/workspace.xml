@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d83b296a-b640-4277-b177-71ad0d69a7d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/21128771_DangMinhPhuong.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +38,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DecoratorTest.executor": "Run",
+    "Application.FactoryTest.executor": "Run",
+    "Application.LibrarySystemTest.executor": "Run",
+    "Application.ObserverTest.executor": "Run",
+    "Application.SingletonTest.executor": "Run",
+    "Application.StrategyTest.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -57,6 +58,82 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.LibrarySystemTest">
+    <configuration name="DecoratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iuh.fit.se.library.DecoratorTest" />
+      <module name="Week03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iuh.fit.se.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iuh.fit.se.library.FactoryTest" />
+      <module name="Week03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iuh.fit.se.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibrarySystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iuh.fit.se.library.LibrarySystemTest" />
+      <module name="Week03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iuh.fit.se.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iuh.fit.se.library.ObserverTest" />
+      <module name="Week03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iuh.fit.se.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iuh.fit.se.library.StrategyTest" />
+      <module name="Week03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iuh.fit.se.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LibrarySystemTest" />
+        <item itemvalue="Application.StrategyTest" />
+        <item itemvalue="Application.ObserverTest" />
+        <item itemvalue="Application.DecoratorTest" />
+        <item itemvalue="Application.FactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742308093419</updated>
-      <workItem from="1742308094425" duration="1410000" />
+      <workItem from="1742308094425" duration="3908000" />
     </task>
     <servers />
   </component>
